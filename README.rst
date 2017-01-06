@@ -1,9 +1,9 @@
 bitbotcode
 ----------
 
-The driver and controller code for radio controlled bit:bit robots.
+The driver and controller code for radio controlled bit:bot robots.
 
-What is a bit:bit..? See: http://4tronix.co.uk/bitbot/
+What is a bit:bot..? See: http://4tronix.co.uk/bitbot/
 
 Due to a bug in the current runtime, the "horn" feature doesn't work (and is
 thus commented out). I'll update this code when a new version of the
